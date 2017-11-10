@@ -1,2 +1,3 @@
 # EATIGitHub
-#modificando o arquivo
+
+nova linha adicionada
